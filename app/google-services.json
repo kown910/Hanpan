@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709586849912",
+    "project_id": "hanpan1-57d91",
+    "storage_bucket": "hanpan1-57d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709586849912:android:866b3e7e99598613275d8d",
+        "android_client_info": {
+          "package_name": "com.example.hanpan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709586849912-k1gkcm16s8s0pj8pk9idf3kdc34aqjof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hanpan",
+            "certificate_hash": "aa393709e845616d3a7a75b67f6f290996469cf0"
+          }
+        },
+        {
+          "client_id": "709586849912-r4est7isekp40fhr5tq3b50ts5p2qm3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZntfLbe5juRuPkpKp37ykX3bnKj26wfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709586849912-r4est7isekp40fhr5tq3b50ts5p2qm3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
