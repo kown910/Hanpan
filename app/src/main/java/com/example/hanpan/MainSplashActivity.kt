@@ -12,7 +12,7 @@ class MainSplashActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main_splash)
 
-        // 일정 시간 지연 이후 실행하기 위한 코드
+        /* 일정 시간 지연 이후 실행하기 위한 코드 */
         Handler(Looper.getMainLooper()).postDelayed({
 
             // 일정 시간이 지나면 MainActivity로 이동
